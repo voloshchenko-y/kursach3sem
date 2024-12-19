@@ -1,0 +1,14 @@
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\bin\Debug\net6.0\kursach.exe
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\bin\Debug\net6.0\kursach.deps.json
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\bin\Debug\net6.0\kursach.runtimeconfig.json
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\bin\Debug\net6.0\kursach.dll
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\bin\Debug\net6.0\kursach.pdb
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\obj\Debug\net6.0\kursach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\obj\Debug\net6.0\kursach.AssemblyInfoInputs.cache
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\obj\Debug\net6.0\kursach.AssemblyInfo.cs
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\obj\Debug\net6.0\kursach.csproj.CoreCompileInputs.cache
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\obj\Debug\net6.0\kursach.dll
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\obj\Debug\net6.0\refint\kursach.dll
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\obj\Debug\net6.0\kursach.pdb
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\obj\Debug\net6.0\kursach.genruntimeconfig.cache
+C:\Users\yurij\OneDrive\Рабочий стол\КПІ\курсач ооп\kursach\kursach\obj\Debug\net6.0\ref\kursach.dll
